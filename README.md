@@ -1,11 +1,11 @@
 Pima Diabetes - ML Classification Comparison
 
-Comparing 4 supervised learning models on the Pima Indians Diabetes 
+Comparing 7 supervised learning models on the Pima Indians Diabetes 
 dataset to predict diabetes onset. Focuses on handling class imbalance, 
 fixing overfitting, and evaluating models beyond accuracy.
 
  Dataset:-
-- **Source:** Pima Indians Diabetes Database (UCI / Kaggle)
+  Source: Pima Indians Diabetes Database (UCI / Kaggle)
   Rows: 768 patients, Features:8, Target:Diabetic (1) or Not (0)
   Class Imbalance: 65% Non-Diabetic / 35% Diabetic
   Key Challenge: 5 columns had biologically impossible zero values 
